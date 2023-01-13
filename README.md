@@ -17,9 +17,7 @@
 
 <br />
 
-![Gnizamaaa's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gnizamaaa&layout=compact&langs_count=7&theme=transparent)
 
-![Gnizamaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnizamaaa&show_icons=true&theme=transparent)
 <!--
 **gnizamaaa/gnizamaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,4 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Gnizamaaa's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gnizamaaa&layout=compact&langs_count=7&theme=transparent)
+
+![Gnizamaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnizamaaa&show_icons=true&theme=transparent)
 -->
